@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/lenz-B/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lenz-B/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lenz-B/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lenz-B/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lenz-B/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
