@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lenz-B/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/lenz-B/LeetCode/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lenz-B/LeetCode/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/lenz-B/LeetCode/tree/master/0013-roman-to-integer) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Counting
