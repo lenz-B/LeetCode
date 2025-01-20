@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lenz-B/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/lenz-B/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lenz-B/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/lenz-B/LeetCode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lenz-B/LeetCode/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lenz-B/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lenz-B/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
