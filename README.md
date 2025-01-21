@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lenz-B/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/lenz-B/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lenz-B/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/lenz-B/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lenz-B/LeetCode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lenz-B/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/lenz-B/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
