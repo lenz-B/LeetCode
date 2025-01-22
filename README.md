@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lenz-B/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lenz-B/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lenz-B/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0792-binary-search](https://github.com/lenz-B/LeetCode/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lenz-B/LeetCode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/lenz-B/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
