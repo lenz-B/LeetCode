@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lenz-B/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/lenz-B/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/lenz-B/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/lenz-B/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lenz-B/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/lenz-B/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/lenz-B/LeetCode/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
