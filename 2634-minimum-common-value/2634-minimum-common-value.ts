@@ -1,11 +1,10 @@
 function getCommon(nums1: number[], nums2: number[]): number {
-    let smallest = Infinity;
-    const set2 = new Set(nums2); 
-    for (let num of nums1) {
-        if (set2.has(num) && num < smallest) {
-            smallest = num;
-        }
-    }
+    let i = 0, j = 0
 
-    return smallest === Infinity ? -1 : smallest;
+    while (i < nums1.length && j < nums2.length){
+        if (nums1[i] === nums2[j]) return nums1[i]
+        if (nums1[i] < nums2[j]) i++
+        else j++
+    }
+    return -1
 }
