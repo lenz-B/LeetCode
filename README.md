@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lenz-B/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lenz-B/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/lenz-B/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3447-clear-digits](https://github.com/lenz-B/LeetCode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/lenz-B/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3636-check-balanced-string](https://github.com/lenz-B/LeetCode/tree/master/3636-check-balanced-string) |
 ## Trie
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/lenz-B/LeetCode/tree/master/0020-valid-parentheses) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lenz-B/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lenz-B/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/lenz-B/LeetCode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/lenz-B/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lenz-B/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/lenz-B/LeetCode/tree/master/3447-clear-digits) |
 ## Hash Table
 |  |
 | ------- |
