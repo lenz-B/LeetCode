@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/lenz-B/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lenz-B/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/lenz-B/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lenz-B/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/lenz-B/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lenz-B/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
