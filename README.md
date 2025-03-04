@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/lenz-B/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lenz-B/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/lenz-B/LeetCode/tree/master/2634-minimum-common-value) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/lenz-B/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lenz-B/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lenz-B/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lenz-B/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lenz-B/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/lenz-B/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lenz-B/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
