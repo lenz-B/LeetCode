@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lenz-B/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/lenz-B/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2502-sort-the-people](https://github.com/lenz-B/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lenz-B/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2634-minimum-common-value](https://github.com/lenz-B/LeetCode/tree/master/2634-minimum-common-value) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/lenz-B/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lenz-B/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/lenz-B/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2502-sort-the-people](https://github.com/lenz-B/LeetCode/tree/master/2502-sort-the-people) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lenz-B/LeetCode/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/lenz-B/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lenz-B/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lenz-B/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/lenz-B/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2502-sort-the-people](https://github.com/lenz-B/LeetCode/tree/master/2502-sort-the-people) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/lenz-B/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2502-sort-the-people](https://github.com/lenz-B/LeetCode/tree/master/2502-sort-the-people) |
 | [2634-minimum-common-value](https://github.com/lenz-B/LeetCode/tree/master/2634-minimum-common-value) |
 ## Counting
 |  |
