@@ -1,19 +1,19 @@
 function findMissingAndRepeatedValues(grid: number[][]): number[] {
     let n = grid.length
-    let obj: {[key: number]:number} = {}
-    
-    for(let i = 1; i <= n**2; i++){
-        obj[i] = 0
-    }
+    let count = new Array(n*n +1).fill(0)
+    let a = -1, b = -1
 
-    for (let e of grid){
-        for (let j of e){
-            obj[j] = (obj[j] || 0) +1
+    for (let row of grid){
+        for (let num of row){
+            count[num]++
         }
     }
+    
+    for (let i = 1; i <= n*n; i++){
+        if (count[i] === 2) a = i
+        if (count[i] === 0) b = i
+        if (a !== -1 && b !== -1) break
+    }
 
-    let a = Object.keys(obj).filter(key => obj[key] === 2)
-    let b = Object.keys(obj).filter(key => obj[key] === 0)
-
-    return [Number(a), Number(b)]    
+    return [a, b]    
 };
