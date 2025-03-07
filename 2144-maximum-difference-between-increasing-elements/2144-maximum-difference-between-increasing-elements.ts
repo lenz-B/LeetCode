@@ -1,9 +1,11 @@
 function maximumDifference(nums: number[]): number {
     let max = -Infinity
-    for (let i = 0; i < nums.length; i++){
-        for (let j = i+1; j < nums.length; j++){
-            if (nums[i] < nums[j] && max < (nums[j] - nums[i])) max = nums[j] - nums[i]
-        }
+    let min = nums[0]
+    
+    for (let i = 1; i < nums.length; i++){
+        if (nums[i] > min) max = Math.max(max, nums[i] - min)
+        else min = nums[i]
     }
+    
     return max === -Infinity ? -1 : max    
 };
