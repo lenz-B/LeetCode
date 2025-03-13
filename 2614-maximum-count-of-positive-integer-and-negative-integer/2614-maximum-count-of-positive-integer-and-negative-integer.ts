@@ -4,5 +4,5 @@ function maximumCount(nums: number[]): number {
         if (num < 0) neg++
         else if (0 < num) pos++
     }
-    return pos < neg ? neg : pos 
+    return Math.max(pos, neg)
 };
