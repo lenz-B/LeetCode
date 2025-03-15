@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lenz-B/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lenz-B/LeetCode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/lenz-B/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/lenz-B/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/lenz-B/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/lenz-B/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/lenz-B/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lenz-B/LeetCode/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/lenz-B/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/lenz-B/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lenz-B/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/lenz-B/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lenz-B/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lenz-B/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/lenz-B/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lenz-B/LeetCode/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/lenz-B/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/lenz-B/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
