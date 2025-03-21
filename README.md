@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/lenz-B/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/lenz-B/LeetCode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/lenz-B/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1635-number-of-good-pairs](https://github.com/lenz-B/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/lenz-B/LeetCode/tree/master/2383-add-two-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lenz-B/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/lenz-B/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/lenz-B/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/lenz-B/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1945-finding-the-users-active-minutes](https://github.com/lenz-B/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/lenz-B/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/lenz-B/LeetCode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
+| [1635-number-of-good-pairs](https://github.com/lenz-B/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1945-finding-the-users-active-minutes](https://github.com/lenz-B/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/lenz-B/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lenz-B/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1635-number-of-good-pairs](https://github.com/lenz-B/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lenz-B/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
