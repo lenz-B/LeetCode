@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/lenz-B/LeetCode/tree/master/0792-binary-search) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/lenz-B/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/lenz-B/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/lenz-B/LeetCode/tree/master/1635-number-of-good-pairs) |
