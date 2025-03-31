@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/lenz-B/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lenz-B/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/lenz-B/LeetCode/tree/master/3312-number-of-changing-keys) |
+| [3379-score-of-a-string](https://github.com/lenz-B/LeetCode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/lenz-B/LeetCode/tree/master/3447-clear-digits) |
 | [3468-find-the-encrypted-string](https://github.com/lenz-B/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3636-check-balanced-string](https://github.com/lenz-B/LeetCode/tree/master/3636-check-balanced-string) |
