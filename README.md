@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lenz-B/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/lenz-B/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1970-sorting-the-sentence](https://github.com/lenz-B/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lenz-B/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/lenz-B/LeetCode/tree/master/2190-count-common-words-with-one-occurrence) |
