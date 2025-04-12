@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/lenz-B/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/lenz-B/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/lenz-B/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [1610-xor-operation-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/lenz-B/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/lenz-B/LeetCode/tree/master/2383-add-two-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/lenz-B/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/lenz-B/LeetCode/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/lenz-B/LeetCode/tree/master/0645-set-mismatch) |
+| [1610-xor-operation-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Linked List
 |  |
 | ------- |
