@@ -1,7 +1,10 @@
 function scoreOfString(s: string): number {
-    let result: number = 0;
-    for (let i = 0; i < s.length - 1; i++) {
-        result += Math.abs(s.charCodeAt(i) - s.charCodeAt(i + 1));
+    const arr = s.split('')
+
+    let result = 0
+    for (let idx = 0; idx < arr.length - 1; idx++) {
+        result += Math.abs(arr[idx].charCodeAt(0) - arr[idx + 1].charCodeAt(0))
     }
+
     return result;
-}
+};
