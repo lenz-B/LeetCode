@@ -1,12 +1,15 @@
-function romanToInt(s: string): number {
-    const values = [1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1];
-    const symbols = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+const roman = {
+  I: 1,
+  V: 5,
+  X: 10,
+  L: 50,
+  C: 100,
+  D: 500,
+  M: 1000,
+};
 
-    return symbols.reduceRight((acc, symbol, index) => {
-        while (s.endsWith(symbol)) {
-            s = s.slice(0, -symbol.length);
-            acc += values[index];
-        }
-        return acc;
-    }, 0)
+function romanToInt(s: string): number {
+  const integers = s.split('').map(c => roman[c]);
+  
+  return integers.reduce((acc, x, i) => x < integers[i+1] ? acc - x : acc + x, 0);
 };
