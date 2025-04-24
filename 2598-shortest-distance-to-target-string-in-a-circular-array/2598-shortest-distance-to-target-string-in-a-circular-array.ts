@@ -4,9 +4,9 @@ function closestTarget(words: string[], target: string, startIndex: number): num
 
     for(let i = 0; i < n; i++){
         if(words[i] === target){
-            let linDist = Math.abs(startIndex - i)
-            let cirDist = n - linDist
-            r = Math.min(r, Math.min(linDist, cirDist))
+            let dirDist = Math.abs(startIndex - i)
+            let cirDist = n - dirDist
+            r = Math.min(r, Math.min(dirDist, cirDist))
         }
     }
     return r === Infinity ? -1 : r
