@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/lenz-B/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/lenz-B/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/lenz-B/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lenz-B/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1848-sum-of-unique-elements](https://github.com/lenz-B/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1945-finding-the-users-active-minutes](https://github.com/lenz-B/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1651-shuffle-string](https://github.com/lenz-B/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lenz-B/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/lenz-B/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1970-sorting-the-sentence](https://github.com/lenz-B/LeetCode/tree/master/1970-sorting-the-sentence) |
