@@ -1,9 +1,13 @@
 function numIdenticalPairs(nums: number[]): number {
-    let pairCount = 0;
-    const map = {};
-    for (const n of nums) {
-        map[n] = (map[n] || 0) + 1;
-        pairCount += map[n] - 1;
-    }
-    return pairCount;
+   let goodPair = 0 
+   let map = {}
+   for(let num of nums) {
+     if(map[num]) {
+       goodPair += map[num]
+       map[num]++
+     } else {
+       map[num] = 1
+     }
+   }
+  return goodPair
 };
