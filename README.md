@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/lenz-B/LeetCode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/lenz-B/LeetCode/tree/master/0952-word-subsets) |
 | [1044-find-common-characters](https://github.com/lenz-B/LeetCode/tree/master/1044-find-common-characters) |
+| [1205-defanging-an-ip-address](https://github.com/lenz-B/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1524-string-matching-in-an-array](https://github.com/lenz-B/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/lenz-B/LeetCode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/lenz-B/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
